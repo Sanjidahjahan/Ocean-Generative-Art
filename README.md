@@ -42,7 +42,7 @@ To recreate my project, open ocean_generative_art.ino in the Arduino IDE, instal
 
 ## Installation Photos
 
-![Full installation](images/installation-full.jpg)
+![Full installation](images/installation-full.png)
 
 ![Screen close-up](images/installation-closeup.jpg)
 
